@@ -44,11 +44,6 @@
   <img src="https://streak-stats.demolab.com/?user=hafli-setiawan27&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
-<!-- ===== SNAKE ANIMATION (butuh GitHub Action) ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hafli-setiawan27/hafli-setiawan27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=100&section=footer" alt="footer" />
