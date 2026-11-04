@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/hafli-setiawan27/hafli-setiawan27/main/assets/ngoding.svg" alt="Ngoding jam 3 pagi" width="600" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafli-setiawan27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/hafli-setiawan27?style=for-the-badge&logo=github&color=181717" alt="followers" />
 </p>
